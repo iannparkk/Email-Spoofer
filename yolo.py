@@ -11,10 +11,10 @@ def main():
     lines()
     print(' EMAIL SPOOFER')
     lines()
-    email = 'icwtr.g0d@gmail.com'
+    email = email
     from_emails = input(' Sender email: ') # The person you want to send it as
     name = input(' Sender name: ') # The sender emails name
-    password = '9JhWmHSvRIG5FDs0'
+    password = password
     recipient = input(' Recipient email: ') # The person you're sending the email to
     lines()
 
