@@ -12,10 +12,10 @@ def main():
     lines()
     print(' EMAIL SPOOFER')
     lines()
-    email = email
+    email = (#Your SMTP user)
+    password = (#Your SMTP pass)
     from_emails = input(' Sender email: ') # The person you want to send it as
     name = input(' Sender name: ') # The sender emails name
-    password = password
     recipient = input(' Recipient email: ') # The person you're sending the email to
     lines()
 
