@@ -81,7 +81,7 @@ def main():
             main()
         elif email_resend == 'n':
             time.sleep(0.5)
-            leave = input('Press [Enter] to exit...')
+            input('Press [Enter] to exit...')
             sys.exit() # Leave the program
         else:
             resend()
